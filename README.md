@@ -41,7 +41,6 @@
   <a href="https://woocommerce.com/document/woocommerce-release-archive/">
     <img src="https://img.shields.io/badge/WooCommerce-v6.0+-purple?style=for-the-badge&logo=woocommerce" alt="WooCommerce Compatibility">
   </a>
-  [![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)
 </p>
 
 ---
