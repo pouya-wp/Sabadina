@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/pouya-wp/Sabadina">
-    <img src="https://github.com/pouya-wp/Sabadina/blob/main/Group.svg?raw=true" alt="Sabadina Logo" width="150" height="150">
+    <img src="https://github.com/pouya-wp/Sabadina/blob/main/Group.svg?raw=true" alt="Sabadina Logo" width="300" height="100">
   </a>
 </p>
 
