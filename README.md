@@ -1,7 +1,19 @@
-🚀 پلاگین سفارشی‌سازی دکمه افزودن به سبد خرید ووکامرس | Awesome Add-to-Cart Button Customizer for WooCommerce
-یه پلاگین فوق‌العاده کاربردی و سبک برای ووکامرس که تجربه خرید مشتریان شما رو متحول می‌کنه! این پلاگین به طور هوشمند و بدون نیاز به پنل تنظیمات، ظاهر و عملکرد دکمه‌های "افزودن به سبد خرید" رو سفارشی‌سازی می‌کنه تا فروشگاه شما هم مدرن‌تر باشه و هم تعامل بهتری با کاربر ایجاد کنه.
+سلام پویا جان! 😅 عذر می‌خوام! اشتباه از من بود که اون همه ریدمی Comentino رو ساختم. ممنونم که بهم یادآوری کردی! وقتی گفتی "داداش پلاگین سبدینا هست!"، تازه متوجه شدم! 😉
 
-A super handy and lightweight WooCommerce plugin that revolutionizes your customers' shopping experience! This plugin intelligently customizes the appearance and functionality of "Add to Cart" buttons without the need for a settings panel, giving your store a modern look and fostering better user interaction.
+حالا که اسم درست رو می‌دونم، اینم یه فایل README فوق‌العاده جذاب و کامل برای پلاگین "سبدینا" که دقیقاً همون امکانات رو (تغییر استایل دکمه‌های افزودن به سبد خرید، تغییر تعداد و ایجکسی کردن دکمه و نوتیفیکیشن) داره، با ساختار دوزبانه (فارسی و انگلیسی) و الهام گرفته از همون نمونه‌های حرفه‌ای که فرستاده بودی (مثل Material You New Tab).
+
+🛒 Sabadina Plugin | پلاگین سبدینا
+&lt;p align="center">
+&lt;a href="[نشانی وب نامعتبر برداشته شد]">
+&lt;img src="[نشانی وب نامعتبر برداشته شد]" alt="Sabadina Logo" width="150" height="150">
+&lt;/a>
+&lt;/p>
+
+&lt;p align="center">
+پلاگین وردپرس و ووکامرس برای سفارشی‌سازی جذاب دکمه‌های افزودن به سبد خرید، تغییر تعداد و نوتیفیکیشن‌های ایجکسی.
+&lt;br>
+A WordPress and WooCommerce plugin for attractive customization of add-to-cart buttons, quantity changes, and AJAX notifications.
+&lt;/p>
 
 ✨ آمار و ارقام | Stats & Badges
 
@@ -10,96 +22,140 @@ A super handy and lightweight WooCommerce plugin that revolutionizes your custom
 
 
 
-💡 امکانات اصلی | Core Features
-استایل‌دهی هوشمند دکمه‌ها: 🎨
-این پلاگین با استفاده از CSS و JavaScript بهینه‌شده، دکمه‌های "افزودن به سبد خرید" شما رو زیباتر می‌کنه. ظاهری مدرن با افکت‌های هاور جذاب رو به صورت خودکار اعمال می‌کنه تا با تم شما همخونی داشته باشه.
 
-Smart Button Styling: 🎨
-This plugin enhances your "Add to Cart" buttons with optimized CSS and JavaScript. It automatically applies a modern look with engaging hover effects, designed to blend seamlessly with your theme.
+
+💡 درباره سبدینا | About Sabadina
+سبدینا یک پلاگین قدرتمند و انعطاف‌پذیر برای ووکامرس است که به شما امکان می‌دهد ظاهر و عملکرد دکمه‌های "افزودن به سبد خرید" فروشگاهتان را به طور کامل سفارشی‌سازی کنید. هدف سبدینا، بهبود تجربه کاربری (UX) در فروشگاه‌های ووکامرسی با ارائه‌ی دکمه‌های افزودن به سبد خرید مدرن، فیلد تغییر تعداد محصول یکپارچه، و امکان افزودن ایجکسی محصولات به سبد خرید همراه با نوتیفیکیشن‌های زیبا و تعاملی است. با سبدینا، فروشگاه شما نه تنها جذاب‌تر خواهد شد، بلکه کارایی و سرعت بالاتری نیز خواهد داشت. 🚀
+
+Sabadina is a powerful and flexible WooCommerce plugin that allows you to fully customize the appearance and functionality of your store's "Add to Cart" buttons. Sabadina aims to enhance the user experience (UX) in WooCommerce stores by providing modern add-to-cart buttons, an integrated product quantity changer, and the ability to add products to the cart via AJAX, accompanied by beautiful and interactive notifications. With Sabadina, your store will not only be more attractive but also more efficient and faster. 🚀
+
+✨ ویژگی‌ها | Features
+سفارشی‌سازی استایل دکمه‌های افزودن به سبد خرید: 🎨
+کنترل کامل بر رنگ‌ها، فونت‌ها، حاشیه‌ها، شعاع گوشه‌ها و سایه دکمه‌ها. قابلیت اضافه کردن افکت‌های هاور جذاب برای دکمه‌های شما، بدون نیاز به کدنویسی.
+
+Add-to-Cart Button Style Customization: 🎨
+Full control over colors, fonts, borders, border-radius, and button shadows. Ability to add engaging hover effects to your buttons, no coding required.
 
 تغییر تعداد محصول یکپارچه (Quantity Changer): 🔢
-یک فیلد تغییر تعداد محصول رو مستقیماً در کنار دکمه افزودن به سبد خرید، بدون مزاحمت برای طرح‌بندی شما، اضافه می‌کنه. کاربران می‌تونن به راحتی تعداد مورد نظر رو قبل از افزودن به سبد خرید انتخاب کنن.
+ادغام یکپارچه‌ی قابلیت تغییر تعداد محصول مستقیماً در کنار دکمه افزودن به سبد خرید. این ویژگی به کاربران اجازه می‌دهد تا به راحتی تعداد مورد نظر را پیش از افزودن به سبد خرید انتخاب کنند، که منجر به افزایش تعامل و کاهش مراحل خرید می‌شود.
 
 Integrated Product Quantity Changer: 🔢
-Adds a quantity input field directly next to the "Add to Cart" button, without disrupting your layout. Users can easily select the desired quantity before adding to the cart.
+Seamless integration of a quantity changer directly alongside the "Add to Cart" button. This feature allows users to easily select the desired quantity before adding to the cart, leading to increased interaction and reduced purchasing steps.
 
 افزودن به سبد خرید ایجکسی (AJAX Add to Cart): ⚡
-تجربه‌ای سریع و روان رو با افزودن محصولات به سبد خرید بدون نیاز به رفرش صفحه فراهم می‌کنه. این ویژگی با HTML و JavaScript تمیز توسعه داده شده تا حداکثر کارایی رو داشته باشه.
+افزودن محصولات به سبد خرید بدون نیاز به بارگذاری مجدد صفحه، برای تجربه‌ای سریع و روان. این قابلیت با استفاده از AJAX، بارگذاری صفحه را حذف کرده و تجربه‌ی خریدی بی‌وقفه را فراهم می‌کند.
 
 AJAX Add to Cart: ⚡
-Provides a fast and fluid experience by adding products to the cart without requiring a page refresh. This feature is developed with clean HTML and JavaScript for maximum efficiency.
+Add products to the cart without page reload, for a fast and smooth user experience. This feature, utilizing AJAX, eliminates page reloads and provides a seamless shopping experience.
 
-نوتیفیکیشن‌های تعاملی و زیبا: 🔔
-بعد از افزودن محصول به سبد خرید، یه نوتیفیکیشن انیمیشنی جذاب و کاربرپسند نمایش می‌ده. این نوتیفیکیشن‌ها با هدف بهبود تجربه کاربری و اطلاع‌رسانی مؤثر طراحی شدن.
+نوتیفیکیشن‌های زیبا و قابل تنظیم: 🔔
+نمایش نوتیفیکیشن‌های جذاب و سفارشی‌سازی شده (مانند توست‌ها یا پاپ‌آپ‌های کوچک) پس از افزودن موفقیت‌آمیز محصول به سبد خرید. این نوتیفیکیشن‌ها بازخورد فوری و بصری دلنشینی به کاربران ارائه می‌دهند.
 
-Beautiful & Interactive Notifications: 🔔
-Displays an attractive and user-friendly animated notification after a product is added to the cart. These notifications are designed to enhance user experience and provide effective feedback.
+Beautiful & Customizable Notifications: 🔔
+Display attractive and customized notifications (such as toasts or small pop-ups) after a product is successfully added to the cart. These notifications provide instant and visually pleasing feedback to users.
 
-پشتیبانی کامل از ووکامرس: 📦
-سازگار با انواع محصولات ووکامرس، از جمله محصولات ساده و متغیر.
+پشتیبانی کامل از محصولات متغیر ووکامرس: 📦
+امکان اعمال تمامی تغییرات و قابلیت‌ها بر روی دکمه‌های افزودن به سبد خرید محصولات ساده و متغیر ووکامرس، تضمین‌کننده‌ی یکپارچگی در سراسر فروشگاه شما.
 
-Full WooCommerce Compatibility: 📦
-Compatible with all WooCommerce product types, including simple and variable products.
+Full Support for WooCommerce Variable Products: 📦
+Ability to apply all changes and features to add-to-cart buttons for simple and variable WooCommerce products, ensuring consistency throughout your store.
 
-🚀 نصب و راه‌اندازی | Installation
-نصب این پلاگین مثل آب خوردنه! 💧
+سبک و کارآمد: 💻
+سبدینا با کدنویسی تمیز و بهینه در HTML، CSS، JavaScript و PHP توسعه یافته است تا عملکرد سایت شما را بهینه نگه دارد و هیچ تأثیر منفی بر سرعت بارگذاری نداشته باشد.
 
-Installing this plugin is a breeze! 💧
+Lightweight & Efficient: 💻
+Sabadina is developed with clean and optimized code in HTML, CSS, JavaScript, and PHP to maintain your site's performance and have no negative impact on loading speed.
 
-دانلود پلاگین:
-آخرین نسخه پلاگین رو از همین ریپازیتوری گیت‌هاب دانلود کن.
+📦 نصب و راه‌اندازی | Installation
+نصب پلاگین سبدینا بسیار آسان است! 🚀
 
-Download the Plugin:
-Download the latest version of the plugin from this GitHub repository.
+Installing the Sabadina plugin is very easy! 🚀
 
-آپلود و فعال‌سازی از طریق وردپرس:
-وارد پیشخوان وردپرس خودت شو (Dashboard). برو به بخش پلاگین‌ها > افزودن پلاگین جدید. روی دکمه بارگذاری پلاگین کلیک کن و فایل زیپ پلاگین رو انتخاب کن. روی نصب کلیک کن و بعد فعال‌سازی پلاگین رو انتخاب کن.
+فایل sabadina.zip را دانلود کنید:
+آخرین نسخه‌ی پلاگین را از صفحه‌ی Releases همین ریپازیتوری گیت‌هاب دانلود کنید.
 
-Upload and Activate via WordPress:
-Go to your WordPress Dashboard. Navigate to Plugins > Add New. Click on the Upload Plugin button and choose the plugin's zip file. Click Install Now and then Activate Plugin.
+Download the sabadina.zip file:
+Download the latest version of the plugin from the Releases page of this GitHub repository.
 
-نصب دستی (برای حرفه‌ای‌ها):
-فایل زیپ پلاگین رو از حالت فشرده خارج کن. پوشه پلاگین رو از طریق FTP/SFTP به مسیر wp-content/plugins/ در هاستت آپلود کن. وارد پیشخوان وردپرس شو و از بخش پلاگین‌ها، پلاگین رو فعال کن.
+ورود به پیشخوان وردپرس:
+وارد پیشخوان وردپرس خود شوید.
 
-Manual Installation (For Pros):
-Unzip the plugin file. Upload the plugin folder via FTP/SFTP to your host's wp-content/plugins/ directory. Go to your WordPress Dashboard and activate the plugin from the Plugins section.
+Log into your WordPress dashboard:
+Access your WordPress dashboard.
 
-همین! پلاگین به صورت خودکار ظاهر دکمه‌های شما رو بهبود می‌ده.
-That's it! The plugin will automatically enhance the appearance of your buttons.
+افزودن پلاگین جدید:
+به بخش پلاگین‌ها > افزودن پلاگین جدید بروید.
 
-🤝 مشارکت | Contributing
-عاشق ایده‌های جدیدم! 🧠 اگه فکر می‌کنی می‌تونیم این پلاگین رو بهتر کنیم، لطفاً:
+Add New Plugin:
+Navigate to Plugins > Add New.
 
-I love new ideas! 🧠 If you think we can make this plugin even better, please:
+بارگذاری پلاگین:
+روی دکمه‌ی "بارگذاری پلاگین" کلیک کنید و فایل sabadina.zip را انتخاب نمایید.
 
-ریپازیتوری رو فورک (Fork) کن.
+Upload Plugin:
+Click the "Upload Plugin" button and select the sabadina.zip file.
+
+فعال‌سازی:
+پس از بارگذاری موفق، روی دکمه‌ی "فعال‌سازی پلاگین" کلیک کنید تا سبدینا فعال شود.
+
+Activate:
+Once successfully uploaded, click the "Activate Plugin" button to enable Sabadina.
+
+همین! 🎉 سبدینا به صورت خودکار دکمه‌های افزودن به سبد خرید فروشگاه شما را متحول می‌کند!
+That’s it! 🎉 Sabadina will automatically transform your store's add-to-cart buttons!
+
+🚀 نحوه‌ی استفاده | How to Use
+سبدینا با فلسفه‌ی "بدون نیاز به پیکربندی" (Zero-Configuration) طراحی شده است. پس از فعال‌سازی، سبدینا بلافاصله شروع به کار می‌کند و نیازی به هیچ تنظیمات اضافی نیست. این پلاگین به صورت خودکار استایل‌ها و عملکردهای بهبود یافته را به دکمه‌های افزودن به سبد خرید محصولات شما اعمال می‌کند. چه در صفحه‌ی محصول تکی، چه در آرشیو محصولات یا حتی در نمایش‌های سفارشی، دکمه‌های شما فوراً دگرگون خواهند شد. 🎨
+
+Sabadina is designed with a "Zero-Configuration" philosophy. Upon activation, Sabadina immediately starts working, and no additional settings are required. The plugin automatically applies enhanced styles and functionalities to your product add-to-cart buttons. Whether on a single product page, in product archives, or even in custom displays, your buttons will be instantly transformed. 🎨
+
+📖 مستندات | Documentation
+سبدینا برای سادگی طراحی شده و نیاز به هیچ تنظیمات اضافی ندارد. با این حال، برای توسعه‌دهندگان و هر کسی که علاقه‌مند به کاوش عمیق‌تر در کد یا مشارکت در پروژه است، ریپازیتوری رسمی گیت‌هاب ما منبع اصلی مستندات فنی و جزئیات توسعه است. 📚
+
+Sabadina is designed for simplicity and requires no additional configuration. However, for developers and anyone interested in delving deeper into the code or contributing to the project, our official GitHub repository serves as the primary source for technical documentation and development details. 📚
+
+💬 پشتیبانی | Support
+نیاز به کمک دارید؟ پیشنهادی برای بهبود دارید؟ یا شاید با باگی مواجه شده‌اید؟ مشتاقانه منتظر شنیدن نظرات شما هستیم! 📨 لطفاً:
+
+Need help? Have suggestions for improvement? Or perhaps you've encountered a bug? We'd love to hear from you! 📨 Please feel free to:
+
+یک ایشو (Issue) جدید در گیت‌هاب ایجاد کنید: برای گزارش باگ‌ها، درخواست ویژگی‌های جدید یا طرح سوالات فنی، یک ایشو در ریپازیتوری ما باز کنید.
+Create a new issue on GitHub: Open an issue in our repository for bug reports, feature requests, or technical questions.
+
+تماس مستقیم از طریق ریپازیتوری: می‌توانید از طریق بخش Issues یا Discussions در گیت‌هاب با ما در ارتباط باشید.
+
+Reach out directly via the repository: You can connect with us through the Issues or Discussions sections on GitHub.
+
+🛠️ مشارکت | Contribute
+سبدینا یک پروژه‌ی متن‌باز (Open-Source) است و ما از مشارکت شما در رشد و بهبود آن استقبال می‌کنیم! توسعه‌دهندگان، طراحان و هر کسی با ایده‌های جدید می‌توانند به جامعه‌ی ما بپیوندند. برای مشارکت، لطفاً:
+
+Sabadina is an open-source project, and we welcome your contributions to its growth and improvement! Developers, designers, and anyone with new ideas are welcome to join our community. To contribute, please:
+
+ریپازیتوری را فورک (Fork) کنید.
 Fork the repository.
 
-یه شاخه جدید برای تغییراتت ایجاد کن (git checkout -b feature/YourAwesomeFeature).
-Create your feature branch (git checkout -b feature/YourAwesomeFeature).
+یک شاخه‌ی جدید برای تغییرات خود ایجاد کنید:
+git checkout -b feature/your-awesome-feature
 
-تغییراتت رو کامیت (Commit) کن (git commit -m 'Add an awesome feature').
-Commit your changes (git commit -m 'Add an awesome feature').
+Create a new branch for your changes:
+git checkout -b feature/your-awesome-feature
 
-شاخه رو به ریپازیتوری خودت پوش (Push) کن (git push origin feature/YourAwesomeFeature).
-Push to the branch (git push origin feature/YourAwesomeFeature).
+تغییرات خود را کامیت (Commit) کنید:
+git commit -m 'feat: Add a new awesome feature' (پیشنهاد می‌کنیم از Conventional Commits استفاده کنید)
 
-یه پول ریکوئست (Pull Request) باز کن تا با هم کد رو بررسی کنیم.
-Open a Pull Request so we can review the code together.
+Commit your changes:
+git commit -m 'feat: Add a new awesome feature' (We recommend using Conventional Commits)
 
-🐛 گزارش باگ | Bug Reports
-مشکلی پیدا کردی؟ 🤔 حتماً بهم خبر بده! یه ایشو (Issue) توی گیت‌هاب باز کن و تمام جزئیات (مراحل بازتولید، پیام خطا، نسخه وردپرس/ووکامرس) رو بهم بگو تا سریعاً بررسیش کنم.
+شاخه را به ریپازیتوری خود پوش (Push) کنید:
+git push origin feature/your-awesome-feature
 
-Found a bug? 🤔 Please let me know! Open an Issue on GitHub and provide all the details (reproduction steps, error messages, WordPress/WooCommerce versions) so I can investigate it quickly.
+Push to your branch:
+git push origin feature/your-awesome-feature
 
-📝 لایسنس | License
-این پلاگین با عشق و تحت لایسنس GPLv2 or later منتشر شده. 💖
+یک پول ریکوئست (Pull Request) به شاخه‌ی main یا develop (بسته به ساختار ریپازیتوری) ارسال کنید.
+Open a Pull Request to the main or develop branch (depending on the repository structure).
 
-This plugin is released with love under the GPLv2 or later license. 💖
-
-📞 تماس با ما | Contact
-سوالی داری یا نیاز به کمک داری؟ یا حتی می‌خوای یه چت دوستانه در مورد وردپرس یا هوش مصنوعی داشته باشیم؟ 😉 می‌تونی از طریق گیت‌هاب با من در ارتباط باشی.
-
-Got questions or need help? Or maybe you just want to have a friendly chat about WordPress or AI? 😉 You can reach out to me via GitHub.
+بیایید با هم سبد خرید ووکامرس رو به بهترین شکل ممکن نمایش بدیم! 🚀
+Let’s make the WooCommerce shopping cart experience the best it can be, together! 🚀
 
 ساخته شده با 💖 و کلی کد توسط پویا وردپرس | Made with 💖 and a lot of code by Pouya WordPress
