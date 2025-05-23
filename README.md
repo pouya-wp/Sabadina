@@ -1,9 +1,9 @@
 🛒 Sabadina Plugin | پلاگین سبدینا
-&lt;p align="center">
-&lt;a href="https://www.pouya-wp.ir/wp-content/uploads/2025/05/Group.svg">
-&lt;img src="https://www.pouya-wp.ir/wp-content/uploads/2025/05/Group.svg" alt="Sabadina Logo" width="150" height="150">
-&lt;/a>
-&lt;/p>
+<p align="center">
+  <a href="https://github.com/pouya-wp/Sabadina">
+    <img src="https://github.com/pouya-wp/Sabadina/blob/main/Group.svg?raw=true" alt="Sabadina Logo" width="150" height="150">
+  </a>
+</p>
 
 &lt;p align="center">
 پلاگین وردپرس و ووکامرس برای سفارشی‌سازی جذاب دکمه‌های افزودن به سبد خرید، تغییر تعداد و نوتیفیکیشن‌های ایجکسی.
